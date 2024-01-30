@@ -8,7 +8,6 @@ Learn covering:
 3. integration with sonarcloud
 
 
-
 ## Building 
 
 ```
